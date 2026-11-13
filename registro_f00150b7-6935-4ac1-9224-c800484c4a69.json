@@ -1,0 +1,17 @@
+{
+    "nombre": "MOISES SAMUEL",
+    "apellido": "BERRIOS RIVAS",
+    "email": "moises_madrid06@yahoo.es",
+    "token": "f00150b7-6935-4ac1-9224-c800484c4a69",
+    "fecha_utc": "2026-11-13T22:18:02.078071+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "8137c84584a8",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "92410ea65224b69f26593ef18d618e74b738371336777296b6ea0edde2fd5e01"
+}
